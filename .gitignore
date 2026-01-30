@@ -1,0 +1,13 @@
+# Carpeta de sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Node (si usas)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
